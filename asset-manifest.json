@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://coolexotic25.github.io/csb-vw21v0/static/css/main.9346df63.chunk.css",
+    "main.js": "https://coolexotic25.github.io/csb-vw21v0/static/js/main.0a0e599d.chunk.js",
+    "main.js.map": "https://coolexotic25.github.io/csb-vw21v0/static/js/main.0a0e599d.chunk.js.map",
+    "runtime-main.js": "https://coolexotic25.github.io/csb-vw21v0/static/js/runtime-main.5720a0bc.js",
+    "runtime-main.js.map": "https://coolexotic25.github.io/csb-vw21v0/static/js/runtime-main.5720a0bc.js.map",
+    "static/js/2.cc863786.chunk.js": "https://coolexotic25.github.io/csb-vw21v0/static/js/2.cc863786.chunk.js",
+    "static/js/2.cc863786.chunk.js.map": "https://coolexotic25.github.io/csb-vw21v0/static/js/2.cc863786.chunk.js.map",
+    "index.html": "https://coolexotic25.github.io/csb-vw21v0/index.html",
+    "static/css/main.9346df63.chunk.css.map": "https://coolexotic25.github.io/csb-vw21v0/static/css/main.9346df63.chunk.css.map",
+    "static/js/2.cc863786.chunk.js.LICENSE.txt": "https://coolexotic25.github.io/csb-vw21v0/static/js/2.cc863786.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5720a0bc.js",
+    "static/js/2.cc863786.chunk.js",
+    "static/css/main.9346df63.chunk.css",
+    "static/js/main.0a0e599d.chunk.js"
+  ]
+}
